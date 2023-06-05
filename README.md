@@ -1,5 +1,3 @@
-# Trynti
-Config files for my GitHub profile.
 # 💫 About Me:
 🔭 Atualmente trabalho com Desenvolvimento WEB.<br>🌱 Eu estou me desenvolvendo em todas as áreas, como um FullStack.<br>💬 Estou atualmente estudando SpringBoot.<br>⚡ Gosto de desafios, principalmente os que testam meu raciocínio lógico.
 
